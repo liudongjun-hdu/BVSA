@@ -98,7 +98,7 @@ We acknowledge the contributions of the following datasets:
 - [A large and rich EEG dataset for modeling human visual object recognition](https://www.sciencedirect.com/science/article/pii/S1053811922008758) [THINGS-EEG]
 - [THINGS-data, a multimodal collection of large-scale datasets for investigating object representations in human brain and behavior](https://pubmed.ncbi.nlm.nih.gov/36847339/) [THINGS-MEG]
 
-The code is inspired by prior awesome works on neural decoding tasks:
+The code is inspired by prior awesome works on neural and visual decoding tasks:
 
 - [Decoding Natural Images from EEG for Object Recognition](https://github.com/eeyhsong/NICE-EEG) [ICLR 2024]
 - [Bridging the vision-brain gap with an uncertainty-aware blur prior](http://openaccess.thecvf.com/content/CVPR2025/html/Wu_Bridging_the_Vision-Brain_Gap_with_an_Uncertainty-Aware_Blur_Prior_CVPR_2025_paper.html) [CVPR 2025]
@@ -115,6 +115,13 @@ If you find this work helpful, please cite:
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={7869--7878},
   year={2026}
+}
+@article{liu2026bridging,
+  title={Bridging Static Images and Dynamic Brain Signal for Visual Decoding},
+  author={Liu, Dongjun and Dai, Weichen and Liu, Honggang and Yi, Hangjie and Kong, Wanzeng},
+  journal={IEEE Transactions on Consumer Electronics},
+  year={2026},
+  publisher={IEEE}
 }
 ```
 
