@@ -116,13 +116,6 @@ If you find this work helpful, please cite:
   pages={7869--7878},
   year={2026}
 }
-@article{liu2026bridging,
-  title={Bridging Static Images and Dynamic Brain Signal for Visual Decoding},
-  author={Liu, Dongjun and Dai, Weichen and Liu, Honggang and Yi, Hangjie and Kong, Wanzeng},
-  journal={IEEE Transactions on Consumer Electronics},
-  year={2026},
-  publisher={IEEE}
-}
 ```
 
 ## Contact us
